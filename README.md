@@ -19,9 +19,9 @@ Frontend Developer | React.js & Next.js Enthusiast 🚀
 ---
 
 ## 📊 GitHub Stats
-![Nada's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Nada's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadaBadawyy&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadaBadawyy&layout=compact&theme=radical)
 
 ---
 
